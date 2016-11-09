@@ -1,0 +1,13 @@
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Release\SignInOut.exe.config
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Release\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Release\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Release\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.LockDownForm.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.frm_Admin.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.MainForm.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.Resources.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.StartForm.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.vbproj.GenerateResource.Cache
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Release\SignInOut.pdb

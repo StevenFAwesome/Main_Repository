@@ -1,0 +1,39 @@
+Z:\_Redistributables\ABS Internal Software\SignInOut\bin\Debug\SignInOut.exe.config
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.frm_Admin.resources
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.MainForm.resources
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.vbproj.GenerateResource.Cache
+Z:\_Redistributables\ABS Internal Software\SignInOut\bin\Debug\SignInOut.exe
+Z:\_Redistributables\ABS Internal Software\SignInOut\bin\Debug\SignInOut.pdb
+Z:\_Redistributables\ABS Internal Software\SignInOut\bin\Debug\SignInOut.xml
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.Resources.resources
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.exe
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.xml
+Z:\_Redistributables\ABS Internal Software\SignInOut\obj\Debug\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Debug\SignInOut.exe.config
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Debug\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Debug\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\bin\Debug\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.vbprojResolveAssemblyReference.cache
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.frm_Admin.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.MainForm.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.Resources.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.vbproj.GenerateResource.Cache
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.LockDownForm.resources
+C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.StartForm.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.exe.config
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.pdb
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.vbprojResolveAssemblyReference.cache
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.LockDownForm.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.frm_Admin.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.MainForm.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.Resources.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.StartForm.resources
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.vbproj.GenerateResource.Cache
