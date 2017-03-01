@@ -118,40 +118,97 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Circle_Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Circle_Red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BKGNovember" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BKGNovember.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CLK" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CLK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="HappyBdayJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HappyBdayJK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="NML" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NML.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hbVerla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hbVerla.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Circle_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Circle_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="HVR" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HVR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="EHVR" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\EHVR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="brick_waller" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\brick-waller.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="HVR_LBRN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HVR_LBRN.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="emergency90" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\emergency90.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="CLK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CLK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Circle_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Circle_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="emergency90Alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\emergency90Alt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="HVRMetalalt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HVRMetalalt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="NML" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NML.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HVRY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HVRY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_119411" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\119411.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HVR_ORG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HVR_ORG.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vetransDay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vetransDay.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EHVR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\EHVR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PNL_NGREY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PNL_NGREY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="christmas_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\christmas-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HBDAYROY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HBDAYROY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pnl_brn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pnl_brn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NovemberBackGround" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NovemberBackGround.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HVR_RED" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HVR_RED.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brick_waller" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brick-waller.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HVRMetalalt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HVRMetalalt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Circle_Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Circle_Red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HVR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HVR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="free-christmas-lights-wallpaper-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\free-christmas-lights-wallpaper-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JANbACK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JANbACK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JAN_BUTTON" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JAN_BUTTON.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BackGroundNewsFeb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Febuary\BackGroundNewsFeb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brnButtonFeb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Febuary\brnButtonFeb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Febuary\buttonBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

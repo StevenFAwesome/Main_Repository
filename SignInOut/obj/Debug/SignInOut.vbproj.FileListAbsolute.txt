@@ -24,9 +24,6 @@ C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.vbproj.GenerateResou
 C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.LockDownForm.resources
 C:\CAD\VBDotNet\Studio2015\SignInOut_v2\obj\Debug\SignInOut.StartForm.resources
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.exe.config
-C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.exe
-C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.xml
-C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.pdb
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.exe
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.pdb
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\bin\Debug\SignInOut.xml
@@ -37,3 +34,6 @@ C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignIn
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.Resources.resources
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.StartForm.resources
 C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.vbproj.GenerateResource.Cache
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.exe
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.xml
+C:\CAD\VBDotNet\Studio2015\Repository\Main_Repository\SignInOut\obj\Debug\SignInOut.pdb

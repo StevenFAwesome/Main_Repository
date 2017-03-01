@@ -71,7 +71,7 @@ Partial Class MainForm
         '
         'pnlFlow
         '
-        Me.pnlFlow.BackgroundImage = Global.SignInOut.My.Resources.Resources.brick_waller
+        Me.pnlFlow.BackgroundImage = Global.SignInOut.My.Resources.Resources.buttonBackground
         Me.pnlFlow.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.pnlFlow.Dock = System.Windows.Forms.DockStyle.Fill
         Me.pnlFlow.FlowDirection = System.Windows.Forms.FlowDirection.TopDown

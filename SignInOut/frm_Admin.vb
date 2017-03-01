@@ -4,7 +4,7 @@
         Me.ForeColor = Color.WhiteSmoke
         '  Me.Btn_Admin1.Text = "LALA"
 
-
+        Me.TopMost = True
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 
     End Sub

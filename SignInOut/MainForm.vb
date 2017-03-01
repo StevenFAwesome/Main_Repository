@@ -26,10 +26,10 @@ Public Class MainForm
     Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles Me.Load
         GetDataFolderLocation()
 
+        '     Button1.Size = New Size(CInt(1.5 * 50), CInt(1.5 * 200))
         checkLockDown()
-
         Me.WindowState = FormWindowState.Maximized
-        'Lock Button Changes
+
 
         'Me.LockBtn.Text = "E" & vbCrLf & "M" & vbCrLf & "E" & vbCrLf & "R" & vbCrLf & "G" & vbCrLf & "E" & vbCrLf & "N" & vbCrLf & "C" & vbCrLf & "Y"
         InitializeResetTimer()
@@ -43,7 +43,7 @@ Public Class MainForm
 
         CreateEmployees()
 
-
+        Me.pnlFlow.Controls.Add(New NewsButton)
 
     End Sub
 
@@ -233,15 +233,17 @@ Public Class MainForm
 
             For Each employee In employees
                 Dim employeeName = employee.Split(",")(0)
-                Dim isPresent = CBool(employee.Split(",")(1))
+            Dim isPresent = CBool(employee.Split(",")(1))
 
-                For Each btn As PersonButton In pnlFlow.Controls
-                    If btn.EmployeeName.Trim = employeeName.Trim Then
-                        If btn.IsPresent <> isPresent Then btn.IsPresent = isPresent
-                        Exit For
-                    End If
-                Next
+            For Each btn As PersonButton In pnlFlow.Controls
+
+
+                If btn.EmployeeName.Trim = employeeName.Trim Then
+                    If btn.IsPresent <> isPresent Then btn.IsPresent = isPresent
+                    Exit For
+                End If
             Next
+        Next
 
     End Sub
     'Private Sub VersionCheck(StringToCheck As List(Of String))
@@ -346,6 +348,7 @@ Public Class MainForm
 
     End Sub
 
+
     Private Sub pnlFlow_DoubleClick(sender As Object, e As EventArgs) Handles pnlFlow.DoubleClick
 
         ReadEmployeeStatus()
@@ -353,11 +356,11 @@ Public Class MainForm
 
         '*V1.1 
         If btn_ADMIN.Visible = False Then
-                btn_ADMIN.Visible = True
-            Else
-                btn_ADMIN.Visible = False
+            btn_ADMIN.Visible = True
+        Else
+            btn_ADMIN.Visible = False
 
-            End If
+        End If
 
 
     End Sub
@@ -365,6 +368,7 @@ Public Class MainForm
     Private Sub ResetTimer_Tick(sender As Object, e As EventArgs) Handles ResetTimer.Tick
         Logger.Instance.AppendLine("Reset timer event")
 
+        On Error Resume Next
         For Each btn As PersonButton In pnlFlow.Controls
             If btn.IsPresent Then
                 btn.IsPresent = False

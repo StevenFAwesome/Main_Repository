@@ -41,14 +41,16 @@
         Me.Text = EmployeeName
        
         Me.TextAlign = ContentAlignment.MiddleLeft
-        Me.BackgroundImage = My.Resources.HVR
+        Me.BackgroundImage = My.Resources.brnButtonFeb
+
+
         Me.BackgroundImageLayout = ImageLayout.Stretch
         'Me.ForeColor = Color.White
 
 
 
         'V1.1 changed to bold and white
-        Me.Font = New System.Drawing.Font("Microsoft Sans Serif", ScaleFactor * 13.0, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Font = New System.Drawing.Font("Calibri Light", ScaleFactor * 15.0, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ForeColor = Color.White
     End Sub
 

@@ -27,7 +27,37 @@ SignInOut
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:SignInOut.My.Resources.Resources.BackGroundNewsFeb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.BKGNovember">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:SignInOut.My.Resources.Resources.brick_waller">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.brnButtonFeb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.buttonBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.christmas_button">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -62,7 +92,42 @@ SignInOut
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:SignInOut.My.Resources.Resources.free_christmas_lights_wallpaper_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.HappyBdayJK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.HBDAYROY">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.hbVerla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:SignInOut.My.Resources.Resources.HVR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.HVR_LBRN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.HVR_ORG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.HVR_RED">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -77,7 +142,37 @@ SignInOut
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:SignInOut.My.Resources.Resources.JAN_BUTTON">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.JANbACK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:SignInOut.My.Resources.Resources.NML">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.NovemberBackGround">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.pnl_brn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.PNL_NGREY">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SignInOut.My.Resources.Resources.vetransDay">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
